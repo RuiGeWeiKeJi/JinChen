@@ -1,0 +1,5 @@
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateLibrary\bin\Debug\Trigger_DateLibrary.dll
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateLibrary\bin\Debug\Trigger_DateLibrary.pdb
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateLibrary\obj\Debug\Trigger_DateLibrary.csprojResolveAssemblyReference.cache
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateLibrary\obj\Debug\Trigger_DateLibrary.dll
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateLibrary\obj\Debug\Trigger_DateLibrary.pdb

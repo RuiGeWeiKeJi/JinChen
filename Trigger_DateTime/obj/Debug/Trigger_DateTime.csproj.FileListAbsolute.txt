@@ -1,0 +1,13 @@
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateTime\bin\Debug\Trigger_DateTime.exe.config
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateTime\obj\Debug\Trigger_DateTime.csprojResolveAssemblyReference.cache
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateTime\obj\Debug\Trigger_DateTime.Trigger_Date.resources
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateTime\obj\Debug\Trigger_DateTime.Properties.Resources.resources
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateTime\obj\Debug\Trigger_DateTime.csproj.GenerateResource.Cache
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateTime\bin\Debug\Trigger_DateTime.exe
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateTime\bin\Debug\Trigger_DateTime.pdb
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateTime\bin\Debug\Trigger_DateBll.dll
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateTime\bin\Debug\Trigger_DateLibrary.dll
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateTime\bin\Debug\Trigger_DateBll.pdb
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateTime\bin\Debug\Trigger_DateLibrary.pdb
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateTime\obj\Debug\Trigger_DateTime.exe
+D:\Project data\JinCheng\Trigger_DateTime\Trigger_DateTime\obj\Debug\Trigger_DateTime.pdb
